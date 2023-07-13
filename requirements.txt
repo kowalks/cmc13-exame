@@ -1,2 +1,7 @@
 ipykernel
 gdown
+pandas
+numpy
+seaborn
+scikit-learn
+feature-engine
