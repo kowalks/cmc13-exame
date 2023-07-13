@@ -44,3 +44,27 @@ Verifique o desempenho nos dados de treinamento e validação. Há variação de
 
 Criar um trecho de código para aplicar o modelo gerado a um arquivo de dados não
 conhecido a priori, mas com mesmo formato do arquivo de dados fornecido (UK_real_estate.csv). Observe que o arquivo de dados deverá ser preparado pelo código para ser apresentado ao regressor, de modo similar ao feito no item 1. O nome do arquivo de dados de testes será `UK_real_estate_test.csv`.
+
+## 3. Material a ser Entregue e Prazo
+
+Deve ser entregue um jupyter notebook (formato .ipynb) com descrição, comentários e código-fonte
+
+OBS: Entregar através do Google Classroom! Não compacte o arquivos em um zip (ou qq outro formato),
+    A. Notebook com descricão, comentários e código-fonte (ver detalhes abaixo)
+
+Prazo de Entrega: 12/julho/2023;
+
+### 3.1. Estrutura do Notebook
+
+OBS:(arquivo em jupyter Notebook ) Intercarlar células(tags) de texto e código fonte observando estrutura indicada abaixo. Comentar o código nas célula de código
+
+**Título: Lab. Exame - CMC-13**
+
+**Equipe: Nomes do membros da Equipe**
+
+1. **Preparação dos dados.** Descrever procedimentos realizados para concluir esta tarefa
+1. **Modelo baseado em Redes Neurais do tipo MLP (MultiLayer Perceptron).** Descrever procedimentos realizados para concluir esta tarefa.
+1. **Modelo baseado em Árvores de Decisão ou Em Florestas Aleatórias (Random Forests).** Descrever procedimentos realizados para concluir esta tarefa.
+1. **Análise Comparativa do desempenho dos modelos.** Apresente os dados e discussões sobre os resultados, inclusive dados sobre o desempenho no dataset de treino e testes.
+1. **Aplicação da predição do Modelo Desenvolvido.** Trecho de código para uso do modelo desenvolvido aplicado a um arquivo de dado do mesmo formato do arquivo de dados fornecido (`UK_real_estate.csv`). O nome do arquivo de dados de testes será `UK_real_estate_test.csv`.
+1. **Conclusões.** Comentários e sugestões sobre o trabalho (complexidade/facilidade, sugestões, etc.).
