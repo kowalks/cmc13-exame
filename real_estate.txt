@@ -1,0 +1,13 @@
+Fields:
+
+Price -
+House Type - Apartment, House, Flat, etc.
+Area - area of the property in square feets
+Bedrooms - Number of bedrooms
+Bathrooms- Number of bathrooms
+Receptions - Number of receptions (a reception room is a room where people can sit, for example a living room)
+Location - Name of the neighbourhood or place
+City-County - Name of the city or county
+Postal Code - Postal code, the first part (before the blank space) defines an location
+
+The file many contain inconsistent data in each field.

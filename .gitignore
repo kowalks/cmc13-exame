@@ -1,0 +1,6 @@
+# IDE settings
+.vscode/
+env/
+
+# Output files
+*.pdf
