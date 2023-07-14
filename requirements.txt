@@ -5,3 +5,5 @@ numpy
 seaborn
 scikit-learn
 feature-engine
+tensorflow
+tensorflow-metal
